@@ -15,4 +15,7 @@
 - Resolved a merge error
 
 ### Gilbert
-- 
+- Created the repository
+- Added initial index.html
+- Created feature/gilbert branch
+- Opened Pull Request
