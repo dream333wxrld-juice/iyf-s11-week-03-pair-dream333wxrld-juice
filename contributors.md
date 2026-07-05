@@ -5,7 +5,7 @@
 | Name | GitHub | Role | Contributions |
 |------|--------|------|---------------|
 | Antony juma | [@itskaysir](https://github.com/itskaysir) | Developer | Resolving merge error |
-| Gilbert | [@teammate2](https://github.com/teammate2) | Team Lead | creating the repository|
+| Gilbert | [@dream333wxrld-juice](https://github.com/dream333wxrld-juice) | Team Lead | creating the repository|
 
 ## Contribution Breakdown
 
